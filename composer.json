@@ -1,0 +1,18 @@
+{
+    "name": "aty/simple",
+    "description": "Simple echo test package",
+    "type": "library",
+    "license": "MITC",
+    "autoload": {
+        "psr-4": {
+            "Aty\\Simple\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mister ATY",
+            "email": "misteraty25@gmail.com"
+        }
+    ],
+    "require": {}
+}
